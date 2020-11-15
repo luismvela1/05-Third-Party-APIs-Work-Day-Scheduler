@@ -6,4 +6,4 @@ I then added an event listener for the save button to where once clicked it save
 after that i made if statment to get the information from local storage and put it in the . description textarea of the html file,
 then i made a function checks the current time and changes the current time and adds past, present, or future classes depending on what the current time is
 heres the url for the workday scheduler:https://luismvela1.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
-/Users/luisvela/Desktop/Screen Shot 2020-11-14 at 9.23.21 PM.png
+
