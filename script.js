@@ -52,7 +52,7 @@ $(document).ready(function(){
     $(".row").each(function(){
         var currentHour = $(this).attr("id");
 
-        if (currentTime>currentHour){
+        if (currentTime<currentHour){
             $(this).addClass("past");
         }
         else if (currentTime===currentHour){
